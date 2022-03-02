@@ -24,7 +24,7 @@ print(list3[2][1])
 mydict = {'key1': 'value1', 'key2': 'Value2'}
 print(mydict['key1'])
 
-= 1 = true
+# 1 = true
 
 # tuples tuples are imutable
 t = (1,2,3)
@@ -32,6 +32,7 @@ t = (1,2,3)
 # sets unordrd set of unique elements
 {1,2,3}
 
+print (list(range(1,5)))
 
 
 
